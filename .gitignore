@@ -1,0 +1,21 @@
+# Ignorar arquivos de configuração locais
+.env
+#config.php
+
+# Ignorar diretórios de dependências
+/vendor
+/node_modules
+
+# Ignorar diretórios de build
+# /build
+# /dist
+
+# Ignorar arquivos temporários e de backup
+*~
+*.swp
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar caches do Composer
+composer.lock
