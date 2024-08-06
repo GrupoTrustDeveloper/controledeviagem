@@ -1,4 +1,4 @@
-# Controle de Viagem v0.0
+# Controle de Viagem v0.0 (alpha)
 
 ## Estado do carro
 * Farol
